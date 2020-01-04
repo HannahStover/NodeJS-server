@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-server",
+  "version": "1.0.0",
+  "description": "Cafe-Presse-Redesign",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Hannah Stover",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3"
+  }
+}
